@@ -70,3 +70,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 - Thanks to [ipstack](https://ipstack.com/) and [GeoIP2](https://www.maxmind.com/en/geoip2-services-and-databases) for their geolocation APIs.
 - Inspired by the need to secure and monitor SSH access attempts.
+## Blue print
+![blueprint](https://github.com/user-attachments/assets/689461ad-3312-4c9f-9111-bddb2b463ce1)
